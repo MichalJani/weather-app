@@ -39,8 +39,6 @@ export class App extends Component {
       currentData,
       isLoading: false
     });
-
-    console.log(this.state);
   };
 
   updateWeather = async () => {
