@@ -1,6 +1,6 @@
 # WROCŁAW WEATHER APP
 
-First, set your api key to OpenWeatherMap in `src/utils/apiCaller.js`
+### First, set your OpenWeatherMap api key in `src/utils/apiCaller.js`
 
 ### Run `npm install` and then `npm start`
 
